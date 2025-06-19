@@ -1,49 +1,61 @@
-### 👋 Hi there! I'm Anish Tirumala Venkata
+# Anish Tirumala Venkata
 
-🎓 Master’s in Computer Science | University of Florida  
-📊 Aspiring Data Analyst | Turning raw data into actionable insights  
-🌱 Blending technical skills with real-world business understanding
+**Graduate Student in Computer Science | Aspiring Data Analyst**  
+**University of Florida**
 
----
 
-💡 **From Code to Clarity: My Journey**  
-With a background in Computer Science, I explored different areas of tech — but what truly inspired me was how data can shape decisions and solve real-world problems.
+## 👋 About Me
 
-I realized that I don’t just enjoy writing code — I love finding patterns, asking the right questions, and helping teams understand the “why” behind the numbers. That’s what led me to Data Analytics — a space where I can bring together **tech, logic, and business**.
+I'm a Master’s student in Computer Science with a strong interest in **Data Analytics**. With a foundation in algorithms, programming, and systems, I’ve discovered my passion lies in using data to uncover insights and support decision-making.
 
----
+I’m currently building skills in tools like **Excel**, **Power BI**, **SQL**, and **Python**, while also learning about **business metrics**, **finance**, and **market performance** to understand the "why" behind the numbers — not just the "how".
 
-📚 **Currently Learning**  
-- 📊 Excel (Advanced formulas, dashboards, KPI tracking)  
-- 📈 Power BI (DAX, data modeling, drill-down reports)  
-- 🧮 Python for EDA (Pandas, Matplotlib, Seaborn)  
-- 🗃️ SQL (Joins, CTEs, aggregations)  
-- 💼 Business domain knowledge (KPIs, market metrics, finance)
+My goal is to grow into a data-focused role where I can use both **technical expertise** and **business context** to drive meaningful outcomes.
 
-> I'm not just learning tools — I'm learning how businesses work, what metrics matter, and how to tell the story behind the data.
 
----
+## 💼 Projects
 
-💼 **Projects I'm Proud Of**  
-- 📊 **Sales & Finance Analytics Dashboard (Excel):**  
-  Cleaned and analyzed raw datasets to build dynamic dashboards covering customer performance, market vs target metrics, and profit/loss analysis.
+**1. Sales & Finance Performance Dashboard (Excel)**  
+Analyzed sales and customer data, built dynamic dashboards to track KPIs, profit/loss, and target comparisons across different markets and time periods.
 
-- 📦 **Amazon Sales Analysis (Python, Jupyter Notebook):**  
-  Conducted EDA on sales data using Python to identify key trends, category-based performance, and actionable insights.
+**2. Amazon Sales EDA (Python, Jupyter Notebook)**  
+Performed exploratory data analysis on Amazon product-level sales data. Uncovered category trends, seasonal effects, and performance insights using Python (pandas, matplotlib, seaborn).
 
----
 
-🎯 **What I’m Looking For**  
-I'm actively seeking opportunities in **Data Analytics**, **Business Intelligence**, or **Insights Strategy** — where I can apply both my technical skills and growing business mindset to solve meaningful problems.
+## 🧠 Skills
 
----
+- **Data Analytics Tools**: Excel (Advanced), Power BI, Jupyter Notebook  
+- **Programming**: Python (Pandas, NumPy, Matplotlib), SQL  
+- **Concepts**: EDA, KPI Analysis, Data Cleaning, Business Metrics, P&L  
+- **Soft Skills**: Analytical Thinking, Communication, Business Context Awareness
 
-📫 **Let’s Connect**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anish-tv/)  
-- 📧 anishve9@gmail.com   
-- 📂 [Portfolio / Resume](https://your-link.com) *(optional)*
 
----
+## 📈 Learning & Development
 
-🧠 *“I don’t just want to process or predict — I want to explain, influence, and drive change through data.”*  
-Thanks for visiting my GitHub — always open to collaborate or connect 😊
+Currently enhancing my understanding of:
+
+- Business Intelligence tools and storytelling  
+- Real-world business problems and financial KPIs  
+- Structured Query Language for data retrieval and transformation  
+- Python for analytics workflows and reporting
+
+
+## 🤝 Looking For
+
+I’m seeking internship or entry-level opportunities in:
+
+- **Data Analytics**  
+- **Business Intelligence**  
+- **Insights and Reporting**
+
+Where I can apply my technical background and growing business knowledge to contribute to real outcomes.
+
+
+## 📬 Get in Touch
+
+- **LinkedIn**: [anish-tirumala-venkata](https://www.linkedin.com/in/anish-tirumala-venkata)  
+- **Email**: anish@example.com *(replace with your actual email)*  
+- *(Portfolio/resume link optional)*
+
+
+*Thank you for visiting my profile. I'm always open to professional connections, opportunities, or collaborations.*
