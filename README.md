@@ -53,9 +53,9 @@ Where I can apply my technical background and growing business knowledge to cont
 
 ## 📬 Get in Touch
 
-- **LinkedIn**: [anish-tirumala-venkata](https://www.linkedin.com/in/anish-tirumala-venkata)  
-- **Email**: anish@example.com *(replace with your actual email)*  
-- *(Portfolio/resume link optional)*
+- **LinkedIn**: (https://www.linkedin.com/in/anish-tv/)  
+- **Email**: anishve9@gmail.com 
+- **Portfolio**: Learning to make portfolio website. 
 
 
 *Thank you for visiting my profile. I'm always open to professional connections, opportunities, or collaborations.*
