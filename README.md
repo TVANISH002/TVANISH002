@@ -39,16 +39,9 @@ I'm actively seeking opportunities in **Data Analytics**, **Business Intelligenc
 ---
 
 📫 **Let’s Connect**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anish-tirumala-venkata)  
-- 📧 anish@example.com *(replace with your actual email)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anish-tv/)  
+- 📧 anishve9@gmail.com   
 - 📂 [Portfolio / Resume](https://your-link.com) *(optional)*
-
----
-
-📊 **GitHub Stats**
-
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishvenkata&show_icons=true&theme=default&hide=issues,contribs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishvenkata&layout=compact&hide=html)
 
 ---
 
