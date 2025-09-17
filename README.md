@@ -4,7 +4,6 @@
 📊 Aspiring **Data Scientist | Data Analyst | Business Intelligence Enthusiast**  
 🌍 Passionate about **data-driven decision making, analytics, and ML applications**  
 
----
 
 ## 🚀 About Me  
 - 🎯 Interested in **Data Analytics & Data Science** — uncovering insights to support smarter business decisions  
@@ -12,7 +11,6 @@
 - 📈 Focused on combining **technical expertise** with **business context** (finance, KPIs, market performance)  
 - 🌱 Currently learning **advanced BI storytelling, ML workflows, and real-world business metrics**  
 
----
 
 ## 💼 Projects  
 - **Movie Recommendation System** *(Python, scikit-learn, NLP, Flask)*  
@@ -27,7 +25,6 @@
 - **Business Insights Dashboard** *(Power BI, SQL)*  
   Developed a 6-page interactive BI dashboard (Sales, Finance, HR, Ops) with drill-through KPIs and SQL transformations.  
 
----
 
 ## 🧠 Skills  
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn), SQL  
@@ -36,14 +33,12 @@
 - **ML/AI Exposure:** Supervised & Unsupervised Learning, NLP, Deep Learning (TensorFlow/Keras, PyTorch)  
 - **Soft Skills:** Analytical Thinking, Storytelling with Data, Business Context Awareness  
 
----
 
 ## 📈 Learning & Development  
 - Enhancing expertise in **machine learning workflows & BI storytelling**  
 - Exploring **cloud platforms (AWS – S3, Redshift, EC2)** for scalable analytics  
 - Practicing **SQL optimization and ETL pipelines** for large datasets  
 
----
 
 ## 🤝 Looking For  
 📌 Internship or entry-level opportunities in:  
