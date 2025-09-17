@@ -1,61 +1,61 @@
-# Anish Tirumala Venkata
+# 👋 Hi, I’m Anish Tirumala Venkata  
 
-**Graduate Student in Computer Science | Aspiring Data Analyst**  
-**University of Florida**
+🎓 Master’s Student in Computer Science @ University of Florida  
+📊 Aspiring **Data Scientist | Data Analyst | Business Intelligence Enthusiast**  
+🌍 Passionate about **data-driven decision making, analytics, and ML applications**  
 
+---
 
-## 👋 About Me
+## 🚀 About Me  
+- 🎯 Interested in **Data Analytics & Data Science** — uncovering insights to support smarter business decisions  
+- 🐍 Skilled in **Python, SQL, Excel, and Power BI** with experience in **EDA, visualization, and predictive modeling**  
+- 📈 Focused on combining **technical expertise** with **business context** (finance, KPIs, market performance)  
+- 🌱 Currently learning **advanced BI storytelling, ML workflows, and real-world business metrics**  
 
-I'm a Master’s student in Computer Science with a strong interest in **Data Analytics**. With a foundation in algorithms, programming, and systems, I’ve discovered my passion lies in using data to uncover insights and support decision-making.
+---
 
-I’m currently building skills in tools like **Excel**, **Power BI**, **SQL**, and **Python**, while also learning about **business metrics**, **finance**, and **market performance** to understand the "why" behind the numbers — not just the "how".
+## 💼 Projects  
+- **Movie Recommendation System** *(Python, scikit-learn, NLP, Flask)*  
+  Built a content-based recommender system on TMDb dataset; preparing deployment with Flask + Heroku.  
 
-My goal is to grow into a data-focused role where I can use both **technical expertise** and **business context** to drive meaningful outcomes.
+- **Amazon Sales Insights (EDA)** *(Python, Pandas, Matplotlib, Seaborn)*  
+  Analyzed 120k+ sales records to uncover demand trends, fulfillment patterns, and customer preferences.  
 
+- **Sales & Finance Performance Dashboard** *(Excel)*  
+  Built dynamic dashboards with **Power Query, Pivot Tables, and DAX** to track KPIs, P&L, and performance vs. targets.  
 
-## 💼 Projects
+- **Business Insights Dashboard** *(Power BI, SQL)*  
+  Developed a 6-page interactive BI dashboard (Sales, Finance, HR, Ops) with drill-through KPIs and SQL transformations.  
 
-**1. Sales & Finance Performance Dashboard (Excel)**  
-Analyzed sales and customer data, built dynamic dashboards to track KPIs, profit/loss, and target comparisons across different markets and time periods.
+---
 
-**2. Amazon Sales EDA (Python, Jupyter Notebook)**  
-Performed exploratory data analysis on Amazon product-level sales data. Uncovered category trends, seasonal effects, and performance insights using Python (pandas, matplotlib, seaborn).
+## 🧠 Skills  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn), SQL  
+- **Analytics Tools:** Excel (Advanced, Power Query, Pivot Tables, DAX), Power BI, Jupyter Notebook  
+- **Concepts:** EDA, Data Cleaning, KPI Analysis, Predictive Modeling, Business Metrics, P&L  
+- **ML/AI Exposure:** Supervised & Unsupervised Learning, NLP, Deep Learning (TensorFlow/Keras, PyTorch)  
+- **Soft Skills:** Analytical Thinking, Storytelling with Data, Business Context Awareness  
 
+---
 
-## 🧠 Skills
+## 📈 Learning & Development  
+- Enhancing expertise in **machine learning workflows & BI storytelling**  
+- Exploring **cloud platforms (AWS – S3, Redshift, EC2)** for scalable analytics  
+- Practicing **SQL optimization and ETL pipelines** for large datasets  
 
-- **Data Analytics Tools**: Excel (Advanced), Power BI, Jupyter Notebook  
-- **Programming**: Python (Pandas, NumPy, Matplotlib), SQL  
-- **Concepts**: EDA, KPI Analysis, Data Cleaning, Business Metrics, P&L  
-- **Soft Skills**: Analytical Thinking, Communication, Business Context Awareness
+---
 
-
-## 📈 Learning & Development
-
-Currently enhancing my understanding of:
-
-- Business Intelligence tools and storytelling  
-- Real-world business problems and financial KPIs  
-- Structured Query Language for data retrieval and transformation  
-- Python for analytics workflows and reporting
-
-
-## 🤝 Looking For
-
-I’m seeking internship or entry-level opportunities in:
-
+## 🤝 Looking For  
+📌 Internship or entry-level opportunities in:  
+- **Data Science**  
 - **Data Analytics**  
-- **Business Intelligence**  
-- **Insights and Reporting**
+- **Business Intelligence & Insights**  
 
-Where I can apply my technical background and growing business knowledge to contribute to real outcomes.
+Where I can apply my technical background and business knowledge to deliver meaningful outcomes.  
 
+---
 
-## 📬 Get in Touch
-
-- **LinkedIn**: (https://www.linkedin.com/in/anish-tv/)  
-- **Email**: anishve9@gmail.com 
-- **Portfolio**: Learning to make portfolio website. 
-
-
-*Thank you for visiting my profile. I'm always open to professional connections, opportunities, or collaborations.*
+## 📬 Connect With Me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anish-tv/)  
+- 📧 **anishve9@gmail.com**  
+- 🌐 Portfolio: *coming soon* 🚧  
