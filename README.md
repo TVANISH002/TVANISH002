@@ -9,15 +9,8 @@
 - 🎯 Interested in **Data Analytics & Data Science** — uncovering insights to support smarter business decisions  
 - 🐍 Skilled in **Python, SQL, Excel, and Power BI** with experience in **EDA, visualization, and predictive modeling**  
 - 📈 Focused on combining **technical expertise** with **business context** (finance, KPIs, market performance)  
-- 🌱 Currently learning **advanced BI storytelling, ML workflows, and real-world business metrics**  
-
-
-## 📂 Featured Projects  
-👉 Check out my pinned repositories for projects in:  
-- 🎬 Recommender Systems (Movies)  
-- 🛒 Sales & Financial Analytics (Excel, Power BI, Python)  
-- 🏨 Hospitality Analytics (EDA) 
-
+- 🌱 Currently learning **advanced BI storytelling, ML workflows, and real-world business metrics**
+  
 
 ## 🧠 Skills  
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn), SQL  
