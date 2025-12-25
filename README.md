@@ -4,8 +4,6 @@
 📍 United States  
 🚀 **Aspiring Data Scientist | Analytics Engineer | ML & GenAI Enthusiast**
 
-Hey 👋 I’m Anish  
-
 I’m a Computer Science graduate student at the University of Florida who enjoys working with data, machine learning, and analytics. I like turning messy datasets into clear insights and building small end-to-end projects that actually run.
 
 Most of my work here is hands-on and project-driven — from data analysis and machine learning models to simple web apps for demonstrations.
