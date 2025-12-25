@@ -16,7 +16,9 @@ Most of my work here is hands-on and project-driven — from data analysis and m
 - Small deployed apps using Streamlit
 
 ### Featured projects
-- **Diabetes Risk Screening (ML)** – End-to-end ML project with model training, evaluation, and a Streamlit app  
+
+- **Data Science Learning Lab** – A collection of Jupyter notebooks covering EDA, machine learning algorithms, and hands-on experiments
+-  **Diabetes Risk Screening (ML)** – End-to-end ML project with model training, evaluation, and a Streamlit app  
 - **Customer Churn Prediction** – Predicting customer exit using structured data and neural networks  
 - **IMDB Sentiment Analysis** – NLP project using deep learning for sentiment classification  
 - **Business Insights Dashboard** – Power BI dashboard for KPI tracking and reporting  
