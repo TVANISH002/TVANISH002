@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anish Tirumala Venkata (TV Anish)
 
-🎓 **M.S. in Computer Science** – University of Florida  
+🎓 **M.S. in Computer Science** – **University of Florida**  
 📍 United States  
 🚀 **Aspiring Data Scientist | Analytics Engineer | ML & GenAI Enthusiast**
 
