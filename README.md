@@ -5,7 +5,7 @@ I build practical, end-to-end data science and machine learning systems with a s
 focus on **problem framing, model evaluation, and deployment**.
 
 I’m particularly interested in **why models work, where they fail, and how to design
-them responsibly for real-world use** — not just improving metrics.
+them responsibly for real-world use** and not just improving metrics.
 
 ---
 
