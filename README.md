@@ -1,11 +1,11 @@
 👋 Hi, I’m Anish  
 🎓 M.S. in Computer Science — University of Florida, USA  
 
-I build practical, end-to-end data science and machine learning systems with a focus on
-problem framing, model evaluation, and deployment.
+I build practical, end-to-end data science and machine learning systems with a strong
+focus on **problem framing, model evaluation, and deployment**.
 
-My work spans exploratory data analysis, classical ML, deep learning, and lightweight
-deployments that turn models into usable applications.
+I’m particularly interested in **why models work, where they fail, and how to design
+them responsibly for real-world use** — not just improving metrics.
 
 ---
 
@@ -24,7 +24,7 @@ deployments that turn models into usable applications.
   Screening-style ML system with recall-focused evaluation and a deployed Streamlit app
 
 - **Airline Demand Forecasting**  
-  Time-series forecasting using statistical models and ML with realistic evaluation
+  Time-series forecasting using statistical models and ML with realistic, leakage-safe evaluation
 
 - **Customer Churn Prediction**  
   ANN-based churn risk prediction with reproducible preprocessing and inference
@@ -33,8 +33,8 @@ deployments that turn models into usable applications.
   NLP project analyzing strengths and limitations of basic RNNs on real-world text
 
 - **Data Science & ML Learning Lab**  
-  Hands-on notebooks covering EDA, feature engineering, clustering, and model comparison
+  Hands-on notebooks covering EDA, clustering, feature engineering, and model comparison
 
 ---
 
-📈 Continuously learning and improving through real-world data and experimentation.
+📈 Continuously learning, experimenting, and improving through real-world data.
