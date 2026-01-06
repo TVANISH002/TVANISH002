@@ -1,34 +1,40 @@
 👋 Hi, I’m Anish  
 🎓 M.S. in Computer Science — University of Florida, USA  
 
-I build practical, end-to-end data science and machine learning projects with a focus on
-analysis, modeling, and deployment.
+I build practical, end-to-end data science and machine learning systems with a focus on
+problem framing, model evaluation, and deployment.
 
-My work is hands-on and project-driven — from exploratory data analysis and ML models
-to simple deployed applications and dashboards.
+My work spans exploratory data analysis, classical ML, deep learning, and lightweight
+deployments that turn models into usable applications.
+
+---
 
 ### 🔧 What I Work With
 - **Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 - **Machine Learning:** Classification, prediction, model evaluation
 - **Deep Learning & NLP:** Neural networks, sentiment analysis
 - **Analytics & BI:** Power BI dashboards, KPI reporting
-- **Deployment:** Streamlit apps
-- **Tools:** Git, Jupyter Notebook, SQL
+- **Deployment:** Streamlit
+- **Tools:** Git, SQL, Jupyter Notebook
+
+---
 
 ### 📌 Selected Projects
-- **Data Science Learning Lab**  
-  Jupyter notebooks covering EDA, ML algorithms, and hands-on experiments
-
 - **Diabetes Risk Screening**  
-  End-to-end ML pipeline with training, evaluation, and a Streamlit web app
+  Screening-style ML system with recall-focused evaluation and a deployed Streamlit app
+
+- **Airline Demand Forecasting**  
+  Time-series forecasting using statistical models and ML with realistic evaluation
 
 - **Customer Churn Prediction**  
-  Predicting customer exit using structured data and neural networks
+  ANN-based churn risk prediction with reproducible preprocessing and inference
 
-- **IMDB Sentiment Analysis**  
-  NLP project using deep learning for sentiment classification
+- **IMDB Sentiment Analysis (SimpleRNN)**  
+  NLP project analyzing strengths and limitations of basic RNNs on real-world text
 
-- **Business Insights Dashboard**  
-  Power BI dashboard for KPI tracking and reporting
+- **Data Science & ML Learning Lab**  
+  Hands-on notebooks covering EDA, feature engineering, clustering, and model comparison
 
-📈 Continuously learning and improving through real-world projects.
+---
+
+📈 Continuously learning and improving through real-world data and experimentation.
