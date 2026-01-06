@@ -1,31 +1,34 @@
-# 👋 Hi, I'm Anish Tirumala Venkata (TV Anish)
+👋 Hi, I’m Anish  
+🎓 M.S. in Computer Science — University of Florida, USA  
 
-🎓 **M.S. in Computer Science** – **University of Florida**  
-📍 **United States**  
-🚀 **Aspiring Data Scientist | Analytics Engineer | ML & GenAI Enthusiast**
+I build practical, end-to-end data science and machine learning projects with a focus on
+analysis, modeling, and deployment.
 
-I’m a Computer Science graduate student at the University of Florida who enjoys working with data, machine learning, and analytics. I like turning messy datasets into clear insights and building small end-to-end projects that actually run.
+My work is hands-on and project-driven — from exploratory data analysis and ML models
+to simple deployed applications and dashboards.
 
-Most of my work here is hands-on and project-driven — from data analysis and machine learning models to simple web apps for demonstrations.
+### 🔧 What I Work With
+- **Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Machine Learning:** Classification, prediction, model evaluation
+- **Deep Learning & NLP:** Neural networks, sentiment analysis
+- **Analytics & BI:** Power BI dashboards, KPI reporting
+- **Deployment:** Streamlit apps
+- **Tools:** Git, Jupyter Notebook, SQL
 
-### What I work on
-- Data analysis using Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Machine learning for classification and prediction problems
-- NLP and deep learning experiments
-- Dashboards and business analytics using Power BI
-- Small deployed apps using Streamlit
+### 📌 Selected Projects
+- **Data Science Learning Lab**  
+  Jupyter notebooks covering EDA, ML algorithms, and hands-on experiments
 
-### Featured projects
+- **Diabetes Risk Screening**  
+  End-to-end ML pipeline with training, evaluation, and a Streamlit web app
 
-- **Data Science Learning Lab** – A collection of Jupyter notebooks covering EDA, machine learning algorithms, and hands-on experiments
--  **Diabetes Risk Screening (ML)** – End-to-end ML project with model training, evaluation, and a Streamlit app  
-- **Customer Churn Prediction** – Predicting customer exit using structured data and neural networks  
-- **IMDB Sentiment Analysis** – NLP project using deep learning for sentiment classification  
-- **Business Insights Dashboard** – Power BI dashboard for KPI tracking and reporting  
+- **Customer Churn Prediction**  
+  Predicting customer exit using structured data and neural networks
 
-### Tech I use
-Python • SQL • Scikit-learn • TensorFlow • Power BI • Git • Jupyter  
+- **IMDB Sentiment Analysis**  
+  NLP project using deep learning for sentiment classification
 
-Still learning, building, and improving — one project at a time 🙂
+- **Business Insights Dashboard**  
+  Power BI dashboard for KPI tracking and reporting
 
-⭐ *Feel free to explore my repositories and connect — always open to collaboration and learning.*
+📈 Continuously learning and improving through real-world projects.
