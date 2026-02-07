@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Anish  
-🎓 **Recent Computer Science Graduate (Dec 2025)**  
-🎓 **M.S. Computer Science — University of Florida, USA**
+🎓 **M.S. Computer Science — University of Florida, USA (Dec 2025 Graduate)**
 
-I’m a recent Computer Science graduate focused on building **practical, end-to-end machine learning systems** — from **problem framing and evaluation** to **deployment and API-based inference**.
+I’m a Computer Science graduate focused on building **practical, end-to-end machine learning systems** — from **problem framing and evaluation** to **deployment and API-based inference**.
 
 Rather than chasing metrics in isolation, I care about **why models work, where they fail, and how design choices affect real-world use**.
 
