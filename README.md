@@ -43,16 +43,11 @@ MySQL, MongoDB, AWS (S3, EC2 – basic)
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TVANISH002&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVANISH002&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+<!-- Top Languages (more stable) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVANISH002&layout=compact&langs_count=8&hide_border=true&theme=default&cache_seconds=1800" height="160"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TVANISH002&theme=github-dark&hide_border=true" height="160"/>
-</p>
-
----
+<!-- Streak (more stable) -->
+<img src="https://streak-stats.demolab.com?user=TVANISH002&hide_border=true&theme=default&cache_seconds=1800" height="160"/>
 
 ## 🚧 Currently Working On
 
