@@ -1,36 +1,73 @@
-<!-- ====== MINIMAL BANNER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=140&section=header&text=Data%20Science%20%7C%20Machine%20Learning&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-
-<div align="center">
-
-### 👋 Hi there  
-
-🎓 M.S. Computer Science — University of Florida  
-📊 Data Science • Machine Learning • Deployment  
-
-<a href="mailto:anishve9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/anish-tv/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
-</a>
-
-</div>
+<!-- ====== PROFESSIONAL BANNER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Anish%20Tirumala%20Venkata&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Model%20Deployment&descAlignY=55&descAlign=50" />
 
 ---
 
-## 🧠 About
+## 👋 About Me
 
-I enjoy working with data — understanding patterns, building models, and turning them into systems that can actually be used.
+I am a Computer Science graduate from the University of Florida with a focus on **Data Science, Machine Learning, and applied ML systems**.
 
-My focus is not just on model performance, but on:
-- **why models work**
-- **where they fail**
-- and how they support **real-world decisions**
+My work centers around understanding data, building predictive models, and translating results into meaningful insights that support decision-making. I am particularly interested in how models behave in real-world scenarios — including performance trade-offs, interpretability, and reliability.
+
+I have hands-on experience working across the full lifecycle of machine learning systems: **data analysis → feature engineering → model development → evaluation → deployment**.
 
 ---
 
-## ⚙️ Approach
+## 🧠 Core Strengths
 
-```text
-Data → EDA → Features → Model → Evaluation → Interpretation → Deployment
+- Exploratory Data Analysis (EDA) and pattern discovery  
+- Feature engineering and handling real-world datasets  
+- Model evaluation using ROC-AUC, Precision–Recall, F1-score  
+- Understanding model behavior (errors, trade-offs, interpretability)  
+- Building end-to-end ML workflows and simple deployment pipelines  
+
+---
+
+## 🧰 Technical Skills
+
+**Languages & Data:**  
+Python, SQL  
+
+**Data Science & ML:**  
+Pandas, NumPy, scikit-learn, TensorFlow, EDA, Feature Engineering  
+
+**Modeling & Evaluation:**  
+Classification, Regression, Time Series (ARIMA, ETS), ROC-AUC, Precision–Recall  
+
+**Deployment & Tools:**  
+FastAPI, Streamlit, Docker, MLflow, GitHub Actions  
+
+**Databases & Cloud:**  
+MySQL, MongoDB, AWS (S3, EC2 – basic)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TVANISH002&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVANISH002&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TVANISH002&theme=github-dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🚧 Currently Working On
+
+- Improving model interpretability and error analysis  
+- Strengthening SQL for data analysis (joins, aggregations, window functions)  
+- Building clean, end-to-end ML pipelines with deployment  
+
+---
+
+## 🤝 Contact
+
+- 📧 Email: **anishve9@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/anish-tv/**  
+
+---
+
+⭐ Thank you for visiting my profile!
