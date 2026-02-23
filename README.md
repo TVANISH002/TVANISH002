@@ -1,5 +1,4 @@
-<!-- ====== PROFESSIONAL BANNER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Anish%20Tirumala%20Venkata&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Model%20Deployment&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4facfe&height=200&section=header&text=Anish%20Tirumala%20Venkata&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20FastAPI%20%7C%20Docker&descAlignY=60&descAlign=50" />
 
 ---
 
