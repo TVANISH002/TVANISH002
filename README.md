@@ -1,88 +1,93 @@
-# 👋 Hi, I’m Anish  
-🎓 **M.S. Computer Science — University of Florida, USA (Dec 2025 Graduate)**
+<!-- Profile README for TVANISH002 -->
 
-I’m a Computer Science graduate focused on building **practical, end-to-end machine learning systems** — from **problem framing and evaluation** to **deployment and API-based inference**.
+<div align="center">
 
-Rather than chasing metrics in isolation, I care about **why models work, where they fail, and how design choices affect real-world use**.
+# Hey, I'm Anish 👋
+**Data Science + ML Systems | Python • SQL • FastAPI • Docker**
 
-Most of my experience comes from **project-based learning**, where I work across the full ML lifecycle: data validation, preprocessing, model training, evaluation, and serving predictions through simple applications and APIs.
+🎓 M.S. Computer Science @ University of Florida (Dec 2025)  
+📍 Gainesville, FL  
 
----
+<a href="mailto:anishve9@gmail.com"><img src="https://img.shields.io/badge/Email-anishve9%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anish-tv/"><img src="https://img.shields.io/badge/LinkedIn-Anish%20TV-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/TVANISH002"><img src="https://img.shields.io/badge/GitHub-TVANISH002-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-## 🔧 What I Work With
-
-- **Backend & APIs:** FastAPI, REST  
-- **Data Analysis:** Python (Pandas, NumPy, Matplotlib)  
-- **Machine Learning:** Classification, regression, model evaluation  
-- **Time Series:** ARIMA, ETS / Holt–Winters  
-- **Visualization & Apps:** Streamlit  
-- **MLOps & Deployment:** Docker, MLflow, GitHub Actions, AWS (basic)  
-- **Tools & Databases:** Git, SQL (MySQL), Jupyter Notebook  
-
-*(Used in academic and project settings.)*
+</div>
 
 ---
 
-## 📌 Selected Projects
+## 🚀 What I’m into
+I like turning messy data into **clear insights** and building ML models that are actually usable —  
+not just “good metrics”. I care about **why models work**, where they fail, and how to ship them through **APIs/apps**.
 
-### 🔐 Network Security / Phishing Detection (ML + MLOps)
-End-to-end machine learning system for detecting phishing websites using URL- and domain-based features.
-
-- Built a **modular ML pipeline** covering data ingestion, validation, transformation, and training  
-- Trained and compared multiple classifiers; selected final model based on **F1-score** (balanced precision–recall)  
-- Tracked experiments, metrics, and artifacts using **MLflow** for reproducibility  
-- Deployed the trained model behind a **FastAPI inference service** with schema validation and confidence scores  
-- Added **GitHub Actions CI** to verify builds and dependencies  
-
-📊 **Best validation performance:**  
-**F1 ≈ 0.99 | Precision ≈ 0.99 | Recall ≈ 0.99**
-
-⚠️ *Educational project — not a production security system.*
+- 📊 **Data Science:** EDA, feature engineering, evaluation, interpretability  
+- 🤖 **ML:** classification, regression, time series  
+- 🛠️ **Deployment:** FastAPI, Docker (and lightweight MLOps with MLflow/CI)
 
 ---
 
-### 🩺 Diabetes Risk Screening (ML + Backend)
-Screening-style ML system designed to **prioritize recall over accuracy** for early risk identification.
+## 🧰 Toolbox
+<div align="center">
 
-- Structured preprocessing with leakage-aware evaluation  
-- Model selection using **ROC-AUC and Precision–Recall analysis**  
-- Deployed via **FastAPI backend** with a **Streamlit frontend**  
-- Designed as a **risk screening tool**, not a diagnostic system  
+<!-- Languages & DS -->
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-2C2D72?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Scientific-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-Tracking-0194E2?style=flat&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 
----
-
-### ✈️ Airline Demand Forecasting
-Time-series forecasting project comparing baseline, statistical, and ML approaches.
-
-- Evaluated forecasts using **walk-forward validation** to prevent data leakage  
-- Compared ARIMA, ETS (Holt–Winters), and ML baselines  
-- Assessed performance with **RMSE, MAE, and MAPE**  
-
----
-
-### 🔁 Customer Churn Prediction
-ANN-based churn risk prediction system focused on **model trade-offs**, not single-metric optimization.
-
-- Reproducible preprocessing and inference pipeline  
-- Explored precision–recall and business impact of misclassification  
+</div>
 
 ---
 
-### 🛒 FastAPI E-commerce Backend
-Backend-driven product management application.
+## 📌 Featured Projects
+> A few things I’ve built recently 👇
 
-- Built REST APIs using **FastAPI**  
-- Paired with a lightweight **Streamlit frontend**  
-- Emphasized clean API design and backend-first architecture  
+- 🔐 **Network Security / Phishing Detection (ML + MLOps)**  
+  End-to-end pipeline + MLflow tracking + FastAPI inference + CI  
+  👉 Repo: https://github.com/TVANISH002/networksecurity
+
+- 🩺 **Diabetes Risk Screening (ML + Backend)**  
+  Recall-focused screening model + FastAPI + Streamlit  
+  👉 Repo: *(add link when ready)*
+
+- ✈️ **Airline Demand Forecasting (Time Series)**  
+  ARIMA / ETS + walk-forward validation + RMSE/MAE/MAPE  
+  👉 Repo: *(add link when ready)*
 
 ---
 
-### 📚 Data Science & ML Learning Lab
-Notebook collection for hands-on experimentation.
+## 📈 GitHub at a glance
+<div align="center">
 
-- EDA, feature engineering, clustering, and model comparison  
-- Used as a sandbox for documenting learning and trade-offs  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TVANISH002&show_icons=true&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVANISH002&layout=compact&theme=transparent" />
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://streak-stats.demolab.com?user=TVANISH002&theme=transparent" />
+
+</div>
 
 ---
 
-📈 *Continuously learning by building systems, testing assumptions, and working with imperfect, real-world-style data.*
+## 🧠 What I’m learning now
+- Better SQL for analytics (window functions, joins, performance)
+- Model interpretability + error analysis
+- Practical MLOps (tests, versioning, monitoring basics)
+
+---
+
+## 🤝 Let’s connect
+If you’re working on data/ML projects, I’m always down to collaborate 🤗  
+📩 Email: **anishve9@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/anish-tv/
+
+---
+⭐ If you like my work, consider starring a repo — it helps a lot!
