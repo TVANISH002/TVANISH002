@@ -1,67 +1,112 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2ecc71,100:00c853&height=220&section=header&text=Anish%20Tirumala%20Venkata&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20MLOps%20%7C%20Machine%20Learning%20%7C%20Cloud%20Engineering&descAlignY=65&descAlign=50" />
 
----
+# 👋 Hello, I'm Anish
 
-## 👋 About Me
+🎓 Computer Science graduate from the **University of Florida**
 
-I am a Computer Science graduate from the University of Florida with a focus on **Data Science, Machine Learning, and applied ML systems**.
+I work at the intersection of **Machine Learning, Data Science, and DevOps**, building intelligent systems and deploying them in scalable cloud environments.
 
-My work centers around understanding data, building predictive models, and translating results into meaningful insights that support decision-making. I am particularly interested in how models behave in real-world scenarios — including performance trade-offs, interpretability, and reliability.
+My focus is on building **end-to-end ML systems** — from data exploration and model development to containerization, deployment, and monitoring.
 
-I have hands-on experience working across the full lifecycle of machine learning systems: **data analysis → feature engineering → model development → evaluation → deployment**.
-
----
-
-## 🧠 Core Strengths
-
-- Exploratory Data Analysis (EDA) and pattern discovery  
-- Feature engineering and handling real-world datasets  
-- Model evaluation using ROC-AUC, Precision–Recall, F1-score  
-- Understanding model behavior (errors, trade-offs, interpretability)  
-- Building end-to-end ML workflows and simple deployment pipelines  
+I enjoy combining **data-driven insights with modern DevOps practices** to create reliable and production-ready systems.
 
 ---
 
-## 🧰 Technical Skills
+# 🧠 Areas of Interest
 
-**Languages & Data:**  
-Python, SQL  
-
-**Data Science & ML:**  
-Pandas, NumPy, scikit-learn, TensorFlow, EDA, Feature Engineering  
-
-**Modeling & Evaluation:**  
-Classification, Regression, Time Series (ARIMA, ETS), ROC-AUC, Precision–Recall  
-
-**Deployment & Tools:**  
-FastAPI, Streamlit, Docker, MLflow, GitHub Actions  
-
-**Databases & Cloud:**  
-MySQL, MongoDB, AWS (S3, EC2 – basic)
+• Machine Learning Systems  
+• Data Science & Predictive Modeling  
+• MLOps & Model Deployment  
+• DevOps & Cloud Infrastructure  
+• Scalable Backend Systems  
 
 ---
 
-## 📊 GitHub Activity
+# ⚙️ Tech Stack
 
-<!-- Top Languages (more stable) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVANISH002&layout=compact&langs_count=8&hide_border=true&theme=default&cache_seconds=1800" height="160"/>
+### 🐍 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- Streak (more stable) -->
-<img src="https://streak-stats.demolab.com?user=TVANISH002&hide_border=true&theme=default&cache_seconds=1800" height="160"/>
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-## 🚧 Currently Working On
+### 🚀 Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
-- Improving model interpretability and error analysis  
-- Strengthening SQL for data analysis (joins, aggregations, window functions)  
-- Building clean, end-to-end ML pipelines with deployment  
+### 🐳 DevOps & MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions)
+
+### 📈 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ---
 
-## 🤝 Contact
+# 📂 Featured Projects
 
-- 📧 Email: **anishve9@gmail.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/anish-tv/**  
+🚧 *Currently building more projects focused on ML systems and DevOps deployment.*
+
+### 🤖 Machine Learning Projects
+
+**Credit Risk Modeling System**  
+Machine learning model to predict loan default risk using feature engineering and classification techniques.
+
+**Customer Churn Prediction**  
+Built predictive ML pipeline to identify customers likely to churn.
+
+**Airline Demand Forecasting**  
+Time series forecasting using ARIMA, ETS, and XGBoost.
 
 ---
 
-⭐ Thank you for visiting my profile!
+### ⚙️ MLOps / DevOps Projects
+
+**ML Model API Deployment**  
+FastAPI service containerized using Docker and deployed with CI/CD.
+
+**Monitoring ML Systems**  
+Application monitoring using Prometheus and Grafana.
+
+**Containerized ML Application**  
+ML pipeline packaged and deployed using Docker containers.
+
+---
+
+# 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVANISH002&layout=compact&langs_count=8&hide_border=true" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=TVANISH002&hide_border=true" height="160"/>
+
+---
+
+# 📈 Currently Learning
+
+• Kubernetes for container orchestration  
+• Infrastructure as Code (Terraform)  
+• Observability with Prometheus & Grafana  
+• Production ML pipelines and monitoring  
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email  
+anishve9@gmail.com
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/anish-tv/
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
