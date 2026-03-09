@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4facfe&height=220&section=header&text=Anish%20Tirumala%20Venkata&fontSize=36&fontColor=66ff33&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20FastAPI%20%7C%20Devops/MLOPS&descAlignY=65&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2ecc71,100:00c853&height=220&section=header&text=Anish%20Tirumala%20Venkata&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20MLOps%20%7C%20Machine%20Learning%20%7C%20Cloud%20Engineering&descAlignY=65&descAlign=50" />
 
 ---
 
