@@ -4,121 +4,125 @@
 
 🎓 Computer Science graduate from the **University of Florida**
 
-I work at the intersection of **Machine Learning, Data Science, and DevOps**, building intelligent systems and deploying them in scalable environments.
-
-My focus is on building **end-to-end ML systems** — from data exploration and model development to containerization, deployment, and monitoring.
-
----
-
-# 🧠 Areas of Interest
-
-• Machine Learning Systems  
-• Data Science & Predictive Modeling  
-• MLOps & Model Deployment  
-• DevOps & Cloud Infrastructure  
-• Scalable Backend Systems  
+I work at the intersection of **Machine Learning, Data Science, and DevOps**.  
+My focus is building **end-to-end ML systems** — from data analysis and model training to containerization, deployment, and monitoring in cloud environments.
 
 ---
 
 # 🧠 Data Science & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-**Core Skills**
-
-• Exploratory Data Analysis (EDA)  
-• Feature Engineering  
-• Classification & Regression  
-• Time Series Forecasting  
-• Model Evaluation (ROC-AUC, Precision-Recall, F1)
-
----
-
-# ⚙️ DevOps & MLOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![GitHubActions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash)
-
-**DevOps Skills**
-
-• Containerization with Docker  
-• CI/CD pipelines with GitHub Actions  
-• Container orchestration using Kubernetes  
-• Monitoring with Prometheus & Grafana  
-• Linux & Bash scripting
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+<img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://img.shields.io/badge/XGBoost-ML-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression-Modeling-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classification-ML-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clustering-Unsupervised-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-DeepLearning-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time%20Series-ARIMA%20%7C%20ETS-yellow?style=for-the-badge"/>
+</p>
 
 ---
 
-# ☁️ Cloud & Infrastructure
+# 📊 Data Analysis
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-**AWS Services**
-
-• EC2  
-• S3  
-• IAM  
-• VPC  
+<p>
+<img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+<img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+<img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-darkgreen?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🔧 ML System Workflow
+# 📈 Model Evaluation
 
-Data → Feature Engineering → Model Training → API (FastAPI) → Docker → CI/CD → Deployment → Monitoring (Prometheus & Grafana)
+<p>
+<img src="https://img.shields.io/badge/ROC--AUC-Metrics-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Precision--Recall-Metrics-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/F1--Score-Metrics-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RMSE-Metrics-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MAE-Metrics-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MAPE-Metrics-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross--Validation-Modeling-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Walk--Forward%20Validation-TimeSeries-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Backend & APIs
 
-🚧 Currently building more projects focused on **Machine Learning systems and DevOps deployment**
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+<img src="https://skillicons.dev/icons?i=streamlit" height="45"/>
+<img src="https://img.shields.io/badge/REST%20API-Backend-green?style=for-the-badge"/>
+</p>
 
-### 🤖 Machine Learning
+---
 
-• Credit Risk Modeling  
-• Customer Churn Prediction  
-• Airline Demand Forecasting  
+# ⚙️ MLOps & Deployment
 
-### ⚙️ ML Deployment / DevOps
+<p>
+<img src="https://img.shields.io/badge/MLflow-MLOps-blue?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
+<img src="https://img.shields.io/badge/CI/CD-Automation-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Batch%20Inference-ML%20Deployment-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RealTime%20Inference-ML%20Systems-purple?style=for-the-badge"/>
+</p>
 
-• FastAPI ML model deployment  
-• Dockerized ML applications  
-• Monitoring ML services with Prometheus & Grafana  
+---
+
+# ☁️ Cloud & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+<img src="https://img.shields.io/badge/AWS%20S3-Storage-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-Compute-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20SageMaker-ML%20Platform-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Render-Cloud-green?style=for-the-badge"/>
+</p>
+
+---
+
+# 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</p>
 
 ---
 
 # 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVANISH002&layout=compact&langs_count=8&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVANISH002&layout=compact&langs_count=8&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=TVANISH002&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=TVANISH002&hide_border=true"/>
 
 ---
 
-# 📈 Currently Learning
+# 🚧 Current Focus
 
-• Kubernetes for production systems  
-• Infrastructure as Code (Terraform)  
-• Observability and monitoring systems  
-• Scalable ML pipelines
+• Building **production-ready ML systems**  
+• Deploying ML models using **Docker and CI/CD**  
+• Learning **Kubernetes for container orchestration**  
+• Implementing **monitoring using Prometheus & Grafana**
 
 ---
 
 # 🤝 Connect With Me
 
-📧 Email  
+📧 **Email**  
 anishve9@gmail.com  
 
-🔗 LinkedIn  
+🔗 **LinkedIn**  
 https://www.linkedin.com/in/anish-tv/
 
 ---
