@@ -4,11 +4,9 @@
 
 🎓 Computer Science graduate from the **University of Florida**
 
-I work at the intersection of **Machine Learning, Data Science, and DevOps**, building intelligent systems and deploying them in scalable cloud environments.
+I work at the intersection of **Machine Learning, Data Science, and DevOps**, building intelligent systems and deploying them in scalable environments.
 
 My focus is on building **end-to-end ML systems** — from data exploration and model development to containerization, deployment, and monitoring.
-
-I enjoy combining **data-driven insights with modern DevOps practices** to create reliable and production-ready systems.
 
 ---
 
@@ -22,63 +20,79 @@ I enjoy combining **data-driven insights with modern DevOps practices** to creat
 
 ---
 
-# ⚙️ Tech Stack
+# 🧠 Data Science & Machine Learning
 
-### 🐍 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-### 🚀 Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+**Core Skills**
 
-### 🐳 DevOps & MLOps
+• Exploratory Data Analysis (EDA)  
+• Feature Engineering  
+• Classification & Regression  
+• Time Series Forecasting  
+• Model Evaluation (ROC-AUC, Precision-Recall, F1)
+
+---
+
+# ⚙️ DevOps & MLOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions)
-
-### 📈 Monitoring
+![GitHubActions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash)
 
-### ☁️ Cloud
+**DevOps Skills**
+
+• Containerization with Docker  
+• CI/CD pipelines with GitHub Actions  
+• Container orchestration using Kubernetes  
+• Monitoring with Prometheus & Grafana  
+• Linux & Bash scripting
+
+---
+
+# ☁️ Cloud & Infrastructure
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+**AWS Services**
+
+• EC2  
+• S3  
+• IAM  
+• VPC  
+
+---
+
+# 🔧 ML System Workflow
+
+Data → Feature Engineering → Model Training → API (FastAPI) → Docker → CI/CD → Deployment → Monitoring (Prometheus & Grafana)
 
 ---
 
 # 📂 Featured Projects
 
-🚧 *Currently building more projects focused on ML systems and DevOps deployment.*
+🚧 Currently building more projects focused on **Machine Learning systems and DevOps deployment**
 
-### 🤖 Machine Learning Projects
+### 🤖 Machine Learning
 
-**Credit Risk Modeling System**  
-Machine learning model to predict loan default risk using feature engineering and classification techniques.
+• Credit Risk Modeling  
+• Customer Churn Prediction  
+• Airline Demand Forecasting  
 
-**Customer Churn Prediction**  
-Built predictive ML pipeline to identify customers likely to churn.
+### ⚙️ ML Deployment / DevOps
 
-**Airline Demand Forecasting**  
-Time series forecasting using ARIMA, ETS, and XGBoost.
-
----
-
-### ⚙️ MLOps / DevOps Projects
-
-**ML Model API Deployment**  
-FastAPI service containerized using Docker and deployed with CI/CD.
-
-**Monitoring ML Systems**  
-Application monitoring using Prometheus and Grafana.
-
-**Containerized ML Application**  
-ML pipeline packaged and deployed using Docker containers.
+• FastAPI ML model deployment  
+• Dockerized ML applications  
+• Monitoring ML services with Prometheus & Grafana  
 
 ---
 
@@ -92,17 +106,17 @@ ML pipeline packaged and deployed using Docker containers.
 
 # 📈 Currently Learning
 
-• Kubernetes for container orchestration  
+• Kubernetes for production systems  
 • Infrastructure as Code (Terraform)  
-• Observability with Prometheus & Grafana  
-• Production ML pipelines and monitoring  
+• Observability and monitoring systems  
+• Scalable ML pipelines
 
 ---
 
 # 🤝 Connect With Me
 
 📧 Email  
-anishve9@gmail.com
+anishve9@gmail.com  
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/anish-tv/
