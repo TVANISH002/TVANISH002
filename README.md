@@ -1,81 +1,79 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=220&section=header&text=Anish%20Tirumala%20Venkata&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20MLOps%20%7C%20DevOps%20%7C%20Generative%20AI&descAlignY=60&descAlign=50"/>
+![AI Engineer](https://img.shields.io/badge/Focus-AI%20Engineering-16a34a?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-RAG%20Workflows-1C3C3C?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Basic-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-# Hi, I'm Anish 👋
+# Anish Tirumala Venkata
 
-Computer Science graduate from the **University of Florida** focused on building **end-to-end machine learning systems** and deploying them using **MLOps and DevOps practices**.
-
-I work across the full lifecycle of ML systems — from **data processing and modeling to scalable deployment and monitoring**.
-
-Currently exploring **Generative AI**, with a focus on **large language models, fine-tuning techniques, and real-world applications of NLP systems**.
-
----
-
-## 🧠 Machine Learning & Data Science
-
-Python • SQL  
-Pandas • NumPy • Scikit-learn • TensorFlow  
-Regression • Classification • Clustering  
-Neural Networks • Time Series (ARIMA, ETS, XGBoost)
+AI Engineer building **LLM-powered systems** with a focus on  
+**Agentic AI**, **RAG pipelines**, and **production-oriented AI workflows**.
 
 ---
 
-## 🤖 Generative AI & NLP
-
-Text Preprocessing • TF-IDF • Word Embeddings  
-Transformer-based Models (BERT)  
-LLM Fundamentals • Prompt Engineering • Fine-tuning  
-
----
-
-## ⚙️ MLOps & DevOps
-
-FastAPI • REST APIs • Streamlit  
-Docker • CI/CD (GitHub Actions)  
-MLflow • Batch & Real-time Inference  
-Monitoring & Logging  
+## 🔹 What I Do
+- Design **multi-agent systems** for reasoning over live data  
+- Build **RAG pipelines** with semantic retrieval and grounding  
+- Develop **LLM applications** using LangChain, Groq, and vector databases  
+- Focus on **evaluation-driven AI systems** (not just prompting)
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## 🔹 Selected Work
 
-AWS (EC2 • S3 • SageMaker)  
-MySQL • MongoDB  
-Render  
+### 🧠 Agentic Research Intelligence Platform
+Multi-agent AI system (Planner → Search → Scrape → Retrieve → Writer → Evaluator)
 
----
+- Processes **5–8 live sources per query**
+- Uses **FAISS + MiniLM embeddings**
+- Generates **grounded, citation-aware outputs**
+- Built with modular, production-oriented design
 
-## 📂 Selected Projects
-
-• **Credit Risk Prediction System**  
-End-to-end ML pipeline with real-time inference, feature engineering, and deployment using FastAPI and Docker.
-
-• **Large-Scale NLP System (14M+ Records)**  
-Benchmarking classical ML and transformer-based models with a focus on scalability and performance.
-
-• **Time Series Forecasting Pipeline**  
-Implemented ARIMA, ETS, and XGBoost models for forecasting with evaluation and comparison.
-
-• **ML Model Deployment System**  
-Built scalable API-based inference systems with monitoring and optimized latency.
-
-• **ML Monitoring & Observability**  
-Exploring system monitoring using Prometheus and Grafana for production ML systems.
+🔗 https://github.com/TVANISH002/Agentic-Research-Platform
 
 ---
 
-## 📊 GitHub Activity
+### ✉️ Job2Mail — AI Cold Outreach System
+LLM + RAG system for generating personalized outreach emails
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVANISH002&layout=compact&hide_border=true"/>
+- Semantic matching using **ChromaDB + embeddings**
+- Automated job extraction + contextual generation
+- Built with **LangChain + Groq**
 
-<img src="https://streak-stats.demolab.com?user=TVANISH002&hide_border=true"/>
-
----
-
-## 🤝 Connect With Me
-
-Email: **anishve9@gmail.com**  
-LinkedIn: **linkedin.com/in/anish-tv**
+🔗 https://github.com/TVANISH002/job2mail-ai-cold-outreach
 
 ---
 
-⭐ Thanks for visiting my GitHub
+### 📚 Enterprise RAG Assistant
+Document-based QA system with retrieval grounding
+
+- Indexed **10,000+ chunks**
+- Improved retrieval relevance **65% → 82%**
+- Reduced hallucinations via grounded inference
+
+🔗 https://github.com/TVANISH002/Enterprise-RAG-AI-Assistant
+
+---
+
+## 🔹 Tech Stack
+
+**LLM Systems:** Agentic AI, RAG, Prompt Engineering, Evaluation  
+**Retrieval:** FAISS, Vector Search, Embeddings, ChromaDB  
+**Frameworks:** LangChain, Transformers  
+**Backend:** FastAPI, REST APIs  
+**Data:** Pandas, NumPy, ML workflows  
+**DevOps:** Docker (basic), GitHub Actions, CI/CD concepts  
+
+---
+
+## 🔹 Currently Working On
+- Scaling **agentic workflows**  
+- Improving **LLM evaluation pipelines**  
+- Learning **fine-tuning & model adaptation**  
+- Strengthening **production + deployment skills**
+
+---
+
+## 🔹 Links
+- Portfolio: https://tvanish002.github.io  
+- LinkedIn: https://www.linkedin.com/in/anish-tv  
+- Medium: https://medium.com/@anish9
