@@ -1,79 +1,81 @@
-![AI Engineer](https://img.shields.io/badge/Focus-AI%20Engineering-16a34a?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-RAG%20Workflows-1C3C3C?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Basic-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Systems-16a34a?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-22c55e?style=for-the-badge)
+![LLM Systems](https://img.shields.io/badge/LLM-Applications-4ade80?style=for-the-badge)
+![Retrieval](https://img.shields.io/badge/Vector%20Search-FAISS%20%7C%20ChromaDB-15803d?style=for-the-badge)
+![Backend](https://img.shields.io/badge/FastAPI-APIs-065f46?style=for-the-badge)
+![Infra](https://img.shields.io/badge/Docker%20%7C%20CI/CD-Foundations-14532d?style=for-the-badge)
+
 
 # Anish Tirumala Venkata
 
-AI Engineer building **LLM-powered systems** with a focus on  
-**Agentic AI**, **RAG pipelines**, and **production-oriented AI workflows**.
+I build **LLM-powered systems** that retrieve, reason, and generate **grounded outputs** from live data.
+
+My work focuses on:
+- **Agentic AI workflows**
+- **RAG (retrieval-augmented generation) systems**
+- **LLM orchestration + evaluation pipelines**
+- **Backend-driven AI applications**
 
 ---
 
-## 🔹 What I Do
-- Design **multi-agent systems** for reasoning over live data  
-- Build **RAG pipelines** with semantic retrieval and grounding  
-- Develop **LLM applications** using LangChain, Groq, and vector databases  
-- Focus on **evaluation-driven AI systems** (not just prompting)
+## Selected Systems
+
+### Agentic Research Intelligence Platform
+Multi-agent system for automated research workflows  
+(Planner → Search → Scrape → Retrieve → Writer → Evaluator)
+
+- Processes 5–8 live sources per query  
+- Uses FAISS + MiniLM for semantic retrieval  
+- Generates citation-aware, grounded outputs  
+- Designed with modular, production-style architecture  
+
+→ https://github.com/TVANISH002/Agentic-Research-Platform
 
 ---
 
-## 🔹 Selected Work
+### Job2Mail — AI Outreach System
+LLM + RAG system for generating personalized cold emails
 
-### 🧠 Agentic Research Intelligence Platform
-Multi-agent AI system (Planner → Search → Scrape → Retrieve → Writer → Evaluator)
+- Matches job descriptions with portfolio using embeddings  
+- Uses ChromaDB for semantic retrieval  
+- Built with LangChain + Groq  
 
-- Processes **5–8 live sources per query**
-- Uses **FAISS + MiniLM embeddings**
-- Generates **grounded, citation-aware outputs**
-- Built with modular, production-oriented design
-
-🔗 https://github.com/TVANISH002/Agentic-Research-Platform
+→ https://github.com/TVANISH002/job2mail-ai-cold-outreach
 
 ---
 
-### ✉️ Job2Mail — AI Cold Outreach System
-LLM + RAG system for generating personalized outreach emails
+### Enterprise RAG Assistant
+Document-based QA system
 
-- Semantic matching using **ChromaDB + embeddings**
-- Automated job extraction + contextual generation
-- Built with **LangChain + Groq**
+- Indexed 10K+ chunks  
+- Improved retrieval relevance (65% → 82%)  
+- Reduced hallucinations through grounding  
 
-🔗 https://github.com/TVANISH002/job2mail-ai-cold-outreach
-
----
-
-### 📚 Enterprise RAG Assistant
-Document-based QA system with retrieval grounding
-
-- Indexed **10,000+ chunks**
-- Improved retrieval relevance **65% → 82%**
-- Reduced hallucinations via grounded inference
-
-🔗 https://github.com/TVANISH002/Enterprise-RAG-AI-Assistant
+→ https://github.com/TVANISH002/Enterprise-RAG-AI-Assistant
 
 ---
 
-## 🔹 Tech Stack
+## Stack
 
-**LLM Systems:** Agentic AI, RAG, Prompt Engineering, Evaluation  
-**Retrieval:** FAISS, Vector Search, Embeddings, ChromaDB  
-**Frameworks:** LangChain, Transformers  
-**Backend:** FastAPI, REST APIs  
-**Data:** Pandas, NumPy, ML workflows  
-**DevOps:** Docker (basic), GitHub Actions, CI/CD concepts  
-
----
-
-## 🔹 Currently Working On
-- Scaling **agentic workflows**  
-- Improving **LLM evaluation pipelines**  
-- Learning **fine-tuning & model adaptation**  
-- Strengthening **production + deployment skills**
+LLM Systems — Agentic AI, RAG, Prompting, Evaluation  
+Retrieval — FAISS, Embeddings, Vector Search  
+Backend — FastAPI, APIs, System Design  
+ML/Data — Pandas, NumPy, Modeling workflows  
+Infra — Docker (basic), CI/CD concepts  
 
 ---
 
-## 🔹 Links
-- Portfolio: https://tvanish002.github.io  
-- LinkedIn: https://www.linkedin.com/in/anish-tv  
-- Medium: https://medium.com/@anish9
+## Direction
+
+Currently focused on building:
+- more robust **agentic systems**
+- stronger **evaluation pipelines**
+- practical **production-ready AI workflows**
+
+---
+
+## Links
+
+Portfolio → https://tvanish002.github.io  
+LinkedIn → https://www.linkedin.com/in/anish-tv  
+Medium → https://medium.com/@anish9
