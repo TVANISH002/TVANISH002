@@ -45,7 +45,7 @@ LLM + RAG system for generating personalized cold emails
 
 ---
 
-### Enterprise RAG Assistant
+### ResearchGPT-Enterprise RAG Assistant
 Document-based QA system
 
 - Indexed 10K+ chunks  
