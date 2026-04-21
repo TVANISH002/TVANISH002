@@ -5,6 +5,7 @@
 ![Backend](https://img.shields.io/badge/FastAPI-APIs-065f46?style=for-the-badge)
 ![Infra](https://img.shields.io/badge/Docker%20%7C%20CI/CD-Foundations-14532d?style=for-the-badge)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-16a34a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tvanish002.github.io)
 
 # Anish Tirumala Venkata
 
